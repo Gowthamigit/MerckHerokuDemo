@@ -1,2 +1,2 @@
-web:    java -cp target/classes:target/dependency/* MerckFirstDemo
+web: java -cp target/classes:target/dependency/* MerckFirstDemo
 
